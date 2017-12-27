@@ -20,6 +20,10 @@ The [second video][I.1] starts to introduce the topic of randomness, that will b
 * [I.4: Custom Distribution][I.4]
 * [I.5: Perlin Noise][I.5]
 
+## Chapter 1: Vectors
+
+
+
 [I.0]: https://www.youtube.com/watch?v=6vX8wT1G798
 [I.1]: https://www.youtube.com/watch?v=rqecAdEGW6I
 [I.2]: https://www.youtube.com/watch?v=frh0coyRmJQ
